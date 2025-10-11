@@ -208,3 +208,8 @@ __marimo__/
 
 .idea
 secrets/
+*.pyc
+.venv/
+/tmp/
+.DS_Store
+secrets/*.json

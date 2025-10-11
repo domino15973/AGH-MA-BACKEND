@@ -1,0 +1,12 @@
+fastapi==0.114.2
+uvicorn[standard]==0.30.6
+
+# Pydantic v2 + settings
+pydantic>=2.8,<3
+pydantic-settings>=2.4,<3
+
+firebase-admin==6.5.0
+pydub==0.25.1
+faster-whisper==1.0.3
+pytz==2024.1
+
